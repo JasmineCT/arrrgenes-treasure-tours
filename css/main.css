@@ -31,7 +31,7 @@ html {
   color: #000;
 }
 
-a :hover {
+a:hover {
   background-color: #bea59b;
 }
 
@@ -67,8 +67,8 @@ a :hover {
 
 .btn-light:hover,
 .btn-light:focus {
-  background-color: #bea59b;
-  border-color: #bea59b;
+  background-color: #522806;
+  border-color: #522806;
 }
 
 .btn-banner {
